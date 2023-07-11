@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Panda</h1>
 <h3 align="center">A passionate Java full-Stack developer from India.</h3>
-<image align ="right" alt ="Coding" width="400" src="https://iconscout.com/lottie/male-developer-working-at-desk-8636713">
+<img align ="right" alt ="coding" width="400" src="https://iconscout.com/lottie/male-developer-working-at-desk-8636713">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhacks&label=Profile%20views&color=0e75b6&style=flat" alt="siddhacks" /> </p>
 
