@@ -12,9 +12,8 @@
 - 📫 How to reach me **siddhathpanda580@gmail.com**
 
 ![Currently](https://img.shields.io/badge/currently-online-9e9e9e?style=for-the-badge)
-![Playing](https://img.shields.io/badge/playing-nothing%20rn-5c6bc0?style=for-the-badge)
-![Coding](https://img.shields.io/badge/coding-nothing%20rn-42a5f5?style=for-the-badge)
-![Listening](https://img.shields.io/badge/listening-nothing%20rn-66bb6a?style=for-the-badge)
+![Spotify](https://img.shields.io/badge/Spotify-Listening-green?style=for-the-badge&logo=spotify)
+![Playing](https://img.shields.io/badge/playlist-focus%20mode-1db954?style=for-the-badge&logo=bgmi)
 
 
 <h3 align="left">Languages:</h3>
