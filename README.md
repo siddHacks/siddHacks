@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML, System design**
 
-- 💬 Ask me about **Java, Java-Backend**
+- 💬 Ask me about **Java, Java-Backend, cloud, python**
 
 - 📫 How to reach me **siddhathpanda580@gmail.com**
 
