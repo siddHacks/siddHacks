@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhacks&label=Profile%20views&color=0e75b6&style=flat" alt="siddhacks" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ML, System design**
 
 - 💬 Ask me about **Java, Java-Backend**
 
-- 📫 How to reach me **siddtheprofessional@gmail.com**
+- 📫 How to reach me **siddhathpanda580@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
