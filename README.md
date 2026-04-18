@@ -42,7 +42,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,cassandra)](https://skillicons.dev)
 
-<h3 align="left">Version Control</h3>
+<h3 align="left">Version Control:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
@@ -50,7 +50,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=maven,gradle,vscode,pycharm)](https://skillicons.dev)
 
-<h3 align="left">Other Tools</h3>
+<h3 align="left">Other Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=postman,anaconda,sublime)](https://skillicons.dev)
 
